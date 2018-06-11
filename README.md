@@ -12,5 +12,5 @@ What could be "included" to complete the project?
 - Code
 - Tools
 
-
-
+Read more:
+[Jukebox Wiki](https://github.com/AndersGn/Jukebox/wiki)
