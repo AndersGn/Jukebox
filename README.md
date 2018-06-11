@@ -1,5 +1,6 @@
 # Jukebox
-Is it possible to build a "retro" jukebox to play mediafiles?
+## Sketching in Hardware exploration :).
+### Is it possible to build a "retro" jukebox to play mediafiles?
 
 What could be "included" to complete the project?
 - Hardware buttons, to select media files
@@ -11,5 +12,5 @@ What could be "included" to complete the project?
 - Code
 - Tools
 
-## Sketching in Hardware exploration :).
+
 
