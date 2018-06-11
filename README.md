@@ -11,3 +11,5 @@ What could be "included" to complete the project?
 - Code
 - Tools
 
+## Sketching in Hardware exploration :).
+
